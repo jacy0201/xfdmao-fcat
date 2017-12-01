@@ -8,7 +8,7 @@ FCat是基于Angular+SpringCloud的企业级基础功能框架(户权限管理�
 
 【CSDN教程地址】：http://edu.csdn.net/course/detail/6358
 # 架构设计 
-![img](https://www.processon.com/view/link/5a20b3f6e4b0add9c9f9ed65)
+![img](http://on-img.com/chart_image/5a20b3f5e4b0add9c9f9ed64.png)
 
 ## 前端技术：Angular；
 ## 后端技术：SpringCloud；
