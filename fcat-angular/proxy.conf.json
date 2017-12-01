@@ -1,0 +1,8 @@
+{
+  "/fcat-auth": {
+    "target": "http://localhost:8965"
+  },
+  "/fcat-user": {
+    "target": "http://localhost:8965"
+  }
+}
